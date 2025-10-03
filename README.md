@@ -5,7 +5,7 @@ Excel + AI for Compliance & Healthcare Data
 This repo is part of my 30-Day Business Analyst + AI Challenge.
 On Day 10, I explored how combining Excel (pivot tables, summaries) with a lightweight ML model can reveal compliance insights faster.
 
-🔍 What I Did
+ What I Did
 
 Data Prep in Excel
 
@@ -31,7 +31,7 @@ top30_high_risk_cases.csv → Prioritized risk cases
 
 Visuals: Feature importance histogram + line plot
 
-📊 Key Insights
+ Key Insights
 
 AI can reduce hours of manual review into minutes of analysis
 
@@ -54,4 +54,4 @@ Run cells to reproduce exports & visuals
 
 Load CSV outputs in Excel or Tableau for dashboarding
 
-📌 Part of my #30DaysBAAIChallenge
+ Part of my #30DaysBAAIChallenge
