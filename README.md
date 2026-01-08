@@ -1,5 +1,4 @@
 # Compliance-AI
-Day 10 – BA + AI Challenge
 Excel + AI for Compliance & Healthcare Data
 
 This repo is part of my 30-Day Business Analyst + AI Challenge.
@@ -54,4 +53,3 @@ Run cells to reproduce exports & visuals
 
 Load CSV outputs in Excel or Tableau for dashboarding
 
- Part of my #30DaysBAAIChallenge
